@@ -1,5 +1,5 @@
 # replace-nft-avatars
-a chrome extension that replaces the nft avatars on twitter with subway jared
+a chrome extension that replaces the nft avatars on twitter with doomer wojak. Might add more stuff
 
 ## to install
 1. Download this repo (Code > Download ZIP).
